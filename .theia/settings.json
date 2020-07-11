@@ -1,0 +1,23 @@
+{
+  "editor.autoSave": "on",
+
+  "editor.fontLigatures": false,
+  "editor.fontSize": 12,
+  "editor.lineHeight": 24,
+  "editor.formatOnSave": true,
+
+  "editor.renderWhitespace": "all",
+  "editor.rulers": [80, 120],
+  "editor.tabSize": 2,
+  "terminal.integrated.fontSize": 12,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+
+  "editor.parameterHints.enabled": true,
+
+  "prettier.singleQuote": true
+}
